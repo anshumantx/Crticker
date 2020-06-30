@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\MoviewReviewSystem\bin\Debug\MoviewReviewSystem.exe.config
+C:\Users\ASUS\source\repos\MoviewReviewSystem\bin\Debug\MoviewReviewSystem.exe
+C:\Users\ASUS\source\repos\MoviewReviewSystem\bin\Debug\MoviewReviewSystem.pdb
+C:\Users\ASUS\source\repos\MoviewReviewSystem\obj\Debug\MoviewReviewSystem.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\MoviewReviewSystem\obj\Debug\MoviewReviewSystem.Properties.Resources.resources
+C:\Users\ASUS\source\repos\MoviewReviewSystem\obj\Debug\MoviewReviewSystem.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\MoviewReviewSystem\obj\Debug\MoviewReviewSystem.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\MoviewReviewSystem\obj\Debug\MoviewReviewSystem.exe
+C:\Users\ASUS\source\repos\MoviewReviewSystem\obj\Debug\MoviewReviewSystem.pdb
+C:\Users\ASUS\source\repos\MoviewReviewSystem\obj\Debug\MoviewReviewSystem.AdminLogin.resources
+C:\Users\ASUS\source\repos\MoviewReviewSystem\obj\Debug\MoviewReviewSystem.Home.resources
+C:\Users\ASUS\source\repos\MoviewReviewSystem\obj\Debug\MoviewReviewSystem.ReviewerLogin.resources
+C:\Users\ASUS\source\repos\MoviewReviewSystem\obj\Debug\MoviewReviewSystem.SignUp.resources
+C:\Users\ASUS\source\repos\MoviewReviewSystem\obj\Debug\MoviewReviewSystem.AddMovie.resources
+C:\Users\ASUS\source\repos\MoviewReviewSystem\obj\Debug\MoviewReviewSystem.ProvideReview.resources
+C:\Users\ASUS\source\repos\MoviewReviewSystem\obj\Debug\MoviewReviewSystem.ViewReview.resources
+C:\Users\ASUS\source\repos\MoviewReviewSystem\obj\Debug\MoviewReviewSystem.ViewByRating.resources
